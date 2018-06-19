@@ -10,6 +10,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 class Client extends JFrame{
+	//this is chang in client from local
 	private String ip=null;
 	private Socket socket=null;
 	Client(String ip){
