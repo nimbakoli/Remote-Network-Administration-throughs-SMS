@@ -28,6 +28,7 @@ import info.server.AdminServer.Server;
 import info.server.log.SystemLogger;
 
 public class Login extends JFrame implements ActionListener{
+	//this is chang from remote
 	private static Login _instance;
 	public static synchronized Login getInstance(){
 		if(_instance==null)
