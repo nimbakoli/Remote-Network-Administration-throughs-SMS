@@ -30,6 +30,8 @@ import info.server.log.SystemLogger;
 public class Login extends JFrame implements ActionListener{
 	//this is chang from remote
 	//this is second chang from remote
+	
+	//this is chang from desktop
 	private static Login _instance;
 	public static synchronized Login getInstance(){
 		if(_instance==null)
